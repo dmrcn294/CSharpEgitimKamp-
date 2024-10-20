@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitimGun4", "CSharpE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitimGun5", "CSharpEgitimGun5\CSharpEgitimGun5.csproj", "{740CFD4C-0315-4227-9885-1FDB54825DFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitimGun6", "CSharpEgitimGun6\CSharpEgitimGun6.csproj", "{33F90920-8A48-461C-A38F-F0DB643BE0A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{740CFD4C-0315-4227-9885-1FDB54825DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{740CFD4C-0315-4227-9885-1FDB54825DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{740CFD4C-0315-4227-9885-1FDB54825DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F90920-8A48-461C-A38F-F0DB643BE0A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F90920-8A48-461C-A38F-F0DB643BE0A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F90920-8A48-461C-A38F-F0DB643BE0A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F90920-8A48-461C-A38F-F0DB643BE0A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
