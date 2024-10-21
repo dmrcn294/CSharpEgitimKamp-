@@ -93,27 +93,27 @@ namespace CSharpEgitimGun6
             //    toplam = toplam + numbers[j];
             //}
             //Console.WriteLine(toplam);
-            int[] sayilar = { 1, 3, 5, 6, 8, 9, 11, 14, 17, 22, 28, 31 };
-            Console.WriteLine("Çİft Sayılar");
-            Console.WriteLine("------------------------------");
-            for (int i = 0; i < sayilar.Length;i++)
-            {
-                if (sayilar[i]%2==0)
-                {
-                    Console.WriteLine(sayilar[i]);
-                }
-            }
-            Console.WriteLine();
+            //int[] sayilar = { 1, 3, 5, 6, 8, 9, 11, 14, 17, 22, 28, 31 };
+            //Console.WriteLine("Çİft Sayılar");
+            //Console.WriteLine("------------------------------");
+            //for (int i = 0; i < sayilar.Length;i++)
+            //{
+            //    if (sayilar[i]%2==0)
+            //    {
+            //        Console.WriteLine(sayilar[i]);
+            //    }
+            //}
+            //Console.WriteLine();
 
-            Console.WriteLine("Tek Sayılar");
-            Console.WriteLine("--------------------------------");
-            for (int i = 0; i < sayilar.Length; i++)
-            {
-                if (sayilar[i] % 2 == 1)
-                {
-                    Console.WriteLine(sayilar[i]);
-                }
-            }
+            //Console.WriteLine("Tek Sayılar");
+            //Console.WriteLine("--------------------------------");
+            //for (int i = 0; i < sayilar.Length; i++)
+            //{
+            //    if (sayilar[i] % 2 == 1)
+            //    {
+            //        Console.WriteLine(sayilar[i]);
+            //    }
+            //}
 
 
 
